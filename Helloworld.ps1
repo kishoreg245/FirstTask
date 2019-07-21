@@ -1,0 +1,3 @@
+# My first file - PS1
+write-output "Hello world"
+write-output "First PS1 on Github"
